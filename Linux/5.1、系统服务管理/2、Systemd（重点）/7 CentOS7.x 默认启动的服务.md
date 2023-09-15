@@ -1,0 +1,1 @@
+[17.5 CentOS 7.x 默认启动的服务简易说明 | 鸟哥的 Linux 私房菜：基础学习篇 第四版 (gitbooks.io)](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/152.html)
